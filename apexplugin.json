@@ -21,7 +21,7 @@
     "url" : "https://github.com/cflg/Oracle_APEX_date_formatter_plugin.git"
   },
   "oracle" : {
-    "versions" : [],
+    "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
       "versions" : ["23.2.0"],
       "plugin" : {
