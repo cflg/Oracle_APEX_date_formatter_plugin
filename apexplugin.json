@@ -1,0 +1,14 @@
+{
+  "name": "Date and Time Auto Formatter",
+  "type": "item",
+  "author": {
+    "name": "Cristian Lo Giudice",
+    "url": "https://www.linkedin.com/in/cristian-lg/"
+  },
+  "version": "1.0.0",
+  "description": "This plugin for Oracle APEX automatically formats both dates and date-times. It supports the following input formats: ddmmyyyy hh:mm, d/m/yy, d/m/yy hh:mm, ddmmyyyy hhmm, ddmmyy hhmm, d/m/yy hhmm, dmyy, ddmmyy, ddmmyyyy. It provides the formatted output based on the 'Show Time' setting: Show Time: YES => dd/mm/yyyy hh:mm, Show Time: NO => dd/mm/yyyy.",
+  "license": "MIT",
+  "commercial": "No",
+  "previewImage": "https://github.com/cflg/Oracle_APEX_date_formatter_plugin/raw/master/static/image-7.png",
+  "homepage": "https://github.com/cflg/Oracle_APEX_date_formatter_plugin"
+}
