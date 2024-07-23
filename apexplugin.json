@@ -27,7 +27,7 @@
       "plugin" : {
         "internalName" : "FORMATEADOR_FECHA_HORA",
         "type" : "item",
-        "demo" : "",
+        "demo" : "https://github.com/cflg/Oracle_APEX_date_formatter_plugin",
         "previewImage": "https://github.com/cflg/Oracle_APEX_date_formatter_plugin/raw/master/static/image-7.png",
       }
     }
