@@ -3,7 +3,7 @@
   "version" : "1.0",
   "description": "This plugin for Oracle APEX automatically formats both dates and date-times. It supports the following input formats: ddmmyyyy hh:mm, d/m/yy, d/m/yy hh:mm, ddmmyyyy hhmm, ddmmyy hhmm, d/m/yy hhmm, dmyy, ddmmyy, ddmmyyyy. It provides the formatted output based on the 'Show Time' setting: Show Time: YES => dd/mm/yyyy hh:mm, Show Time: NO => dd/mm/yyyy.",
   "keywords" : ["date", "format", "formatter"],
-  "homepage": "https://github.com/cflg/Oracle_APEX_date_formatter_plugin"
+  "homepage": "https://github.com/cflg/Oracle_APEX_date_formatter_plugin",
   "bugs" : {
     "url" : "https://github.com/cflg/Oracle_APEX_date_formatter_plugin/issues",
     "email" : "cflg.dev@gmail.com"
